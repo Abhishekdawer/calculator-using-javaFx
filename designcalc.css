@@ -1,0 +1,63 @@
+
+
+#btn
+{
+	-fx-background-color:black;
+	-fx-border-color:#D4D4D2;
+	-fx-border-width:0.5px;
+	-fx-text-fill:white;
+}
+#btn:hover
+{
+	-fx-background-color:#24292F;
+	-fx-text-fill:white;
+	
+}
+
+#btnEqual
+{
+	-fx-background-color:#25a1ee;
+	-fx-border-color:#D4D4D2;
+	-fx-border-width:0.5px;
+	-fx-text-fill:white;
+}
+#btnEqual:hover
+{
+	-fx-background-color:#24292F;
+	-fx-text-fill:white;
+	
+}
+
+#btnOp
+{
+	-fx-background-color:black;
+	-fx-border-color:#D4D4D2;
+	-fx-border-width:0.5px;
+	-fx-text-fill:#25a1ee;
+}
+#btnOp:hover
+{
+	-fx-background-color:#24292F;
+	-fx-text-fill:white;
+	
+}
+
+#btnClear
+{
+	-fx-background-color:black;
+	-fx-border-color:#D4D4D2;
+	-fx-border-width:0.5px;
+	-fx-text-fill:#ff5e14;
+}
+#btnClear:hover
+{
+	-fx-background-color:#24292F;
+	-fx-text-fill:white;
+}
+
+#TextField
+{
+	-fx-background-color:transparent;
+	-fx-border-color:#D4D4D2;
+	-fx-text-fill:white;
+}
